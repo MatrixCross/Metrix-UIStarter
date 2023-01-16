@@ -1,6 +1,7 @@
-import {createApp} from 'vue'
-import App from './app.vue'
+import { createApp } from 'vue';
+import App from './app.vue';
+import '@metu-ui/components/es/style.css';
 
-const app = createApp(App)
+const app = createApp(App);
 
-app.mount('#app')
+app.mount('#app');
