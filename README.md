@@ -6,5 +6,6 @@ commitlint
 stylelint
 eslint
 prettier
+husky
 
 ## 支持使用unocss原子化css进行开发
